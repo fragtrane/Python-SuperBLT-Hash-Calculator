@@ -1,0 +1,1 @@
+# Python SuperBLT Hash Calculator
