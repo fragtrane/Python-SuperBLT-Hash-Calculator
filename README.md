@@ -42,7 +42,7 @@ This is a Python implementation of the [SuperBLT hashing library](https://gitlab
 
 ## Contact
 
-Steam Group: [steamcommunity.com/groups/frag_pd2](https://steamcommunity.com/groups/frag_pd2)
+Steam: [id/fragtrane](https://steamcommunity.com/id/fragtrane)
 
 Reddit: [/u/fragtrane](https://www.reddit.com/user/fragtrane)
 
